@@ -46,4 +46,4 @@ Foi a primeira vez que montei uma página inteira só com HTML e CSS, sem biblio
 
 Autor
 
-Feito por Vinícius Cruz dos Santos,
+Vinícius Cruz dos Santos.

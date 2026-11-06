@@ -13,7 +13,7 @@ Este é o meu projeto do **primeiro desafio da Trilha de CSS da DIO**. A propost
 3. Também era minha responsabilidade **ligar o HTML às folhas de estilo**. Sem isso, nada do CSS apareceria na página.
 4. Para me guiar, usei o **protótipo no Figma** que o desafio disponibilizava.
 
-🔗 Você pode ver o [resultado final de referência aqui](LINK-DO-RESULTADO-DE-REFERENCIA).
+
 
 ---
 
